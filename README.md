@@ -14,6 +14,10 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,nodejs,postgres,html,css)](https://skillicons.dev)
+
+---
+
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
