@@ -1,49 +1,34 @@
 # 👋 Hi, I'm Maksym
 
 🚀 Frontend Developer from Ukraine 🇺🇦  
-💻 I build modern web applications using React & Node.js  
+💻 Building modern web apps with React & Node.js  
 
 ---
 
 ## 🧠 About Me
 
 - 🔭 Focused on becoming a Fullstack Developer  
-- 🌱 Currently learning: React, Node.js, Express  
-- ⚡ Interested in building real-world applications  
-- 💼 Open to internship / junior opportunities  
-
----
-
-[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,nodejs,postgres,html,css)](https://skillicons.dev)
+- 🌱 Learning: React, Node.js, Express, PostgreSQL  
+- ⚡ Love building real-world projects  
+- 💼 Open to internship / junior roles  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,html,css,git)](https://skillicons.dev)
 
 ---
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsimys555&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsimys555&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxsimys555&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsimys555&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
@@ -53,18 +38,24 @@
 
 ---
 
-## 🔥 Projects
+## 🐍 Contribution Snake
 
-- 🛒 Online Store (React + Node.js)  
-- 📱 Telegram Bot  
-- 🌐 Landing Page  
+![Snake animation](https://github.com/maxsimys555/maxsimys555/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔥 Featured Projects
+
+- 🛒 Online Store — React + Node.js  
+- 📱 Telegram Bot — Node.js  
+- 🌐 Landing Page — HTML/CSS  
 
 ---
 
 ## 📫 Contact Me
 
-- Telegram: @your_username
-- Email: your@email.com
+- Telegram: @your_username  
+- Email: your@email.com  
 
 ---
 
