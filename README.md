@@ -48,27 +48,10 @@
 
 ---
 
-## 🔥 Featured Projects
-
-- 🛒 **Online Store**  
-  → Fullstack (React + Node.js + PostgreSQL)  
-  → Authentication, REST API, product management  
-  → [View Project](https://github.com/maxsimys555/REPLACE_WITH_LINK)
-
-- 📱 **Telegram Bot**  
-  → Backend project (Node.js)  
-  → API integration  
-
-- 🌐 **Landing Page**  
-  → Responsive UI (HTML, CSS)  
-  → Modern layout  
-
----
-
 ## 📫 Contact Me
 
-- Telegram: @maxsimys555  
-- Email: maxsimys2001@gmail.com  
+- 📱 **Telegram:** [@maxsimys555](https://t.me/maxsimys555)  
+- 📧 **Email:** [maxsimys2001@gmail.com](mailto:maxsimys2001@gmail.com)
 
 ---
 
