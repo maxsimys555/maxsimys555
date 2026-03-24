@@ -40,7 +40,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/maxsimys555/maxsimys555/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/maxsimys555/maxsimys555/blob/main/github-user-contribution.svg)
 
 ---
 
