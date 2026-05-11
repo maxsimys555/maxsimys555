@@ -1,50 +1,44 @@
 # 👋 Hi, I'm Maksym
 
-🚀 Frontend Developer (React / Node.js)  
-💻 Building fullstack web applications  
+🚀 Full-stack Developer (React / Next.js / Node.js / NestJS)  
+💻 Building scalable full-stack web applications  
+⚡ Focused on clean architecture, APIs, and modern UI  
 💼 Open to work  
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Developing fullstack applications (React + Node.js)  
-- ⚡ Focused on real-world projects and clean architecture  
-- 🧩 Solving practical problems with code  
-- 🚀 Continuously improving my skills  
+- 💻 Developing full-stack applications using React, Next.js, Node.js, Express.js, and NestJS  
+- ⚡ Building REST APIs, authentication systems, and scalable architecture  
+- 🧩 Connecting frontend and backend into complete production-ready solutions  
+- 🚀 Continuously improving my skills and exploring modern technologies  
+- 🤖 Experienced with workflow automation using n8n  
 
 ---
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,redux,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,postgres,mongodb,redux,html,css,git,docker)](https://skillicons.dev)
 
 ---
 
 ## 🚀 What I Can Do
 
-- Build responsive and interactive UI (React)
-- Develop REST APIs (Node.js / Express)
-- Work with databases (PostgreSQL)
-- Connect frontend with backend
-- Write clean, maintainable code
+- Build responsive and interactive UI with React & Next.js
+- Develop scalable REST APIs using Node.js / Express.js / NestJS
+- Implement authentication & authorization (JWT)
+- Work with databases (PostgreSQL / MongoDB)
+- Connect frontend with backend architecture
+- Create reusable and maintainable project structure
+- Automate workflows and integrations using n8n
+- Optimize performance and improve code quality
 
 ---
 
 ## 🐍 Activity
 
 ![Snake animation](https://raw.githubusercontent.com/maxsimys555/maxsimys555/main/github-user-contribution.svg)
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxsimys555&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsimys555&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
@@ -55,6 +49,15 @@
 
 ---
 
-## 🧩 Fun Animation
+## 🧩 Currently Learning
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;Open+to+Work)
+- Advanced backend architecture with NestJS
+- Docker & deployment workflows
+- Database optimization & scaling
+- Microservices & clean architecture
+
+---
+
+## ⚡ Fun Animation
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full-stack+Developer;React+%2F+Next.js+Developer;Node.js+%2F+NestJS;Open+to+Work)
